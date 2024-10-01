@@ -1,4 +1,4 @@
-< Go back](https://github.com/ilytobias/Khan-Destroyer)
+< Go back]https://github.com/Markzz771/C-digos-hack/edit/main/README.md
 # Answer Overwrite
   
   **[Tutorial](https://www.youtube.com/watch?v=kM1oWRX2_TU)**
@@ -18,4 +18,4 @@ javascript:let originalParse=JSON.parse;JSON.parse=function(e,t){let a=originalP
 * Go on Khan.
 * Press bookmark.
   <br>
-![khanthing](https://github.com/ilytobias/Khan-Destroyer/
+![khanthing]https://github.com/Markzz771/C-digos-hack/edit/main/README.md
